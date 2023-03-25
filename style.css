@@ -66,3 +66,38 @@ main {
 	background-color: #333;
 	color: #fff;
 	padding
+}
+
+a:hover {
+	text-decoration: underline;
+  }
+  
+  .header {
+	background-color: #0b3d56;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+  }
+
+  .container {
+	margin: 20px;
+  }
+
+  h2 {
+	color: #006699;
+	font-size: 24px;
+  }
+
+  ul {
+	list-style: none;
+	padding: 0;
+  }
+
+  li {
+	margin-bottom: 10px;
+  }
+
+  a {
+	color: #006699;
+	text-decoration: none;
+  }
